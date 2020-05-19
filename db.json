@@ -1,0 +1,10 @@
+      {
+        asthetic: [
+          {
+            image: require(`../assets/images/one.jpg`),
+            image_cap: "Image Caption",
+          },
+        ],
+        title: "Item123",
+        details: "this is item1",
+      }
